@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Sephy314/Sephy314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Dominus Vobiscum ✝️
 
-Here are some ideas to get you started:
+Backend Developer • Systems Enthusiast • Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Sephy314">GitHub</a> | <a href="https://www.linkedin.com/in/davie-ryu/">LinkedIn</a>
+
+</div>
+
+---
+
+* 🇰🇷 Middle school student from Korea
+* 🎂 Born in 2011
+* 💻 Coding since 2020
+* 🌱 Learning Backend Development, Distributed Systems, and DevOps
+* ⚙️ Interested in distributed system, networking, and infrastructure.
+
+### Tech
+
+`Go` `PostgreSQL` `Redis` `NATS` `Docker` `Echo` `SQLX`
+
+### Projects
+
+* **CNPS** — CLI-friendly Network Protocol
+* **Chinwag** — Simple Chat Application
