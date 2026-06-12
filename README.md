@@ -1,6 +1,6 @@
 <div align="center">
 
-# Dominus Vobiscum ✝️
+# Dominus Vobiscum!
 
 Backend Developer • Systems Enthusiast • Student
 
