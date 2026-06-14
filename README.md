@@ -22,5 +22,5 @@ Backend Developer • Systems Enthusiast • Student
 
 ### Projects
 
-* **CNPS** — CLI-friendly Network Protocol
-* **Chinwag** — Simple Chat Application
+* **[CNPS](https://github.com/Sephy314/CNPS)** — CLI-friendly Network Protocol
+* **[Chinwag](https://github.com/Sephy314/Chinwag)** — Simple Chat Application
