@@ -13,6 +13,7 @@ Backend Developer • Systems Enthusiast • Student
 * 🇰🇷 Middle school student from Korea
 * 🎂 Born in 2011
 * 💻 Coding since 2020
+* 🛠️ Learning Backend since 2024
 * 🌱 Learning Backend Development, Distributed Systems, and DevOps
 * ⚙️ Interested in distributed system, networking, and infrastructure.
 
