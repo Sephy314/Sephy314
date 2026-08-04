@@ -23,7 +23,6 @@ Backend Developer • Systems Enthusiast • Student
 
 ### Projects
 
-* **[CNPS](https://github.com/Sephy314/CNPS)** — CLI-friendly Network Protocol
 * **[Chinwag](https://github.com/Sephy314/Chinwag)** — Simple Chat Application
-* **[AMSA](https://github.com/Sephy314/AMSA)** — Actor Micro System Architecture
-* **[PatchNote](https://github.com/Sephy314/patchnote)** — Git Commit Message Generator
+* **[CNPS](https://github.com/Sephy314/CNPS)** — CLI-friendly Network Protocol
+* * **[PatchNote](https://github.com/Sephy314/patchnote)** — Git Commit Message Generator
