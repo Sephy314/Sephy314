@@ -10,19 +10,16 @@ Backend Developer • Systems Enthusiast • Student
 
 ---
 
-* 🇰🇷 Middle school student from Korea
+* 🇰🇷 Student Developer from Korea
 * 🎂 Born in 2011
 * 💻 Coding since 2020
-* 🛠️ Learning Backend since 2024
+* 🛠️ Exploring Advanced Backend Engineering since 2026
 * 🌱 Learning Backend Development, Distributed Systems, and DevOps
-* ⚙️ Interested in distributed system, networking, and infrastructure.
-
-### Tech
-
-`Go` `PostgreSQL` `Redis` `NATS` `Docker` `Echo` `SQLX`
+* ⚙️ Interested in distributed systems, networking, and infrastructure
+* 🐹 Go enthusiast
 
 ### Projects
 
-* **[Chinwag](https://github.com/Sephy314/Chinwag)** — Simple Chat Application
+* **[Chinwag](https://github.com/Sephy314/Chinwag)** — Real-time Chat Service
 * **[CNPS](https://github.com/Sephy314/CNPS)** — CLI-friendly Network Protocol
 * **[PatchNote](https://github.com/Sephy314/patchnote)** — Git Commit Message Generator
