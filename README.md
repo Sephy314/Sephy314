@@ -25,4 +25,4 @@ Backend Developer • Systems Enthusiast • Student
 
 * **[Chinwag](https://github.com/Sephy314/Chinwag)** — Simple Chat Application
 * **[CNPS](https://github.com/Sephy314/CNPS)** — CLI-friendly Network Protocol
-* * **[PatchNote](https://github.com/Sephy314/patchnote)** — Git Commit Message Generator
+* **[PatchNote](https://github.com/Sephy314/patchnote)** — Git Commit Message Generator
