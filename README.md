@@ -4,7 +4,7 @@
 
 Backend Developer • Systems Enthusiast • Student
 
-<a href="https://github.com/Sephy314">GitHub</a> | <a href="https://www.linkedin.com/in/davie-ryu/">LinkedIn</a>
+<a href="https://github.com/Sephy314">GitHub</a> | <a href="https://www.linkedin.com/in/davie-ryu/">LinkedIn</a> | <a href="https://sephy314.github.io">Homepage</a>
 
 </div>
 
