@@ -29,5 +29,3 @@
 
 * **[Chinwag](https://github.com/Sephy314/Chinwag)** — Secure real-time chat platform: DPoP auth, CQRS, event-driven (Go · Next.js)
 * **[Cachey](https://github.com/Sephy314/Cachey)** — Distributed Cache Store
-* **[CNPS](https://github.com/Sephy314/CNPS)** — Command-oriented TCP/NDJSON network protocol (Go)
-* **[patchnote](https://github.com/Sephy314/patchnote)** — AI-powered Git assistant: commit messages, PRs, code reviews (Go)
