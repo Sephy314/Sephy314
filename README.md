@@ -21,7 +21,7 @@
 ### Focus
 
 * 🔐 Secure authentication — DPoP (RFC 9449), JWKS, key rotation
-* 🧩 Distributed architecture — CQRS, event-driven, outbox pattern
+* 🧩 Distributed architecture — CQRS, event-driven, outbox pattern, Consensus, Replication
 * 📡 Network protocols — TCP, NDJSON, protocol design
 * ☁️ Cloud infrastructure — Docker, Kubernetes (k3s)
 
