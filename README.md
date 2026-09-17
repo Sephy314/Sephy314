@@ -34,15 +34,9 @@
 
 ### Research
 
-* **[The Cost of Centralised Ordering](https://github.com/Sephy314/Leader-consensus-study)**
-  *An Experimental Study of Leader-Based and Leaderless Consensus*
-
-  * Classic Paxos vs. EPaxos
-  * Write Scalability
-  * Resource Distribution
-  * Failure Behaviour
-  * Conflict Sensitivity
-
+* **[The Cost of Centralised Leadership in Distributed Consensus](https://github.com/Sephy314/Leader-consensus-study)** —
+  *An Experimental Comparison of Leader-Based and Leaderless Consensus*
+  
 ### Projects
 
 * **[Chinwag](https://github.com/Sephy314/Chinwag)** — Secure real-time chat platform: DPoP authentication, CQRS, and event-driven architecture (Go · Next.js)
