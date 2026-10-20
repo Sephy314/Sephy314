@@ -4,7 +4,7 @@
 
 > *Dominus illuminatio mea et salus mea.* — Psalmus 27:1
 
-**Distributed Systems Research • Backend Engineer • Student**
+**Distributed Systems Research • Student**
 
 [GitHub](https://github.com/Sephy314) | [LinkedIn](https://www.linkedin.com/in/davie-ryu/) | [Home Page](https://sephy314.github.io)
 
