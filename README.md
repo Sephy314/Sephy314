@@ -36,7 +36,7 @@
 
 * **[The Cost of Centralised Leadership in Distributed Consensus](https://github.com/Sephy314/Leader-consensus-study)** —
   *An Experimental Comparison of Leader-Based and Leaderless Consensus*
-* **[MBQ: Merge-Based Byzantine Consensus with Majority Quorums](https://github.com/Sephy314/MBQ)**
+* **[On the Possibility of Achieving Majority Quorums in Byzantine Consensus through Evidence Exchange under Synchrony and Digital Signatures](https://github.com/Sephy314/MBQ)**
   *Achieving \(f+1\) Quorums through Synchrony and Digital Signatures*
   
 ### Projects
