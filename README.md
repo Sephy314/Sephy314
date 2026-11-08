@@ -26,17 +26,11 @@
 * 📊 **Systems Research** — Experimental Evaluation, Benchmarking, Performance Analysis
 * 🌐 **Distributed Architecture** — Event-Driven Systems, CQRS, Outbox Pattern
 
-### Engineering Interests
-
-* 🔐 **Security** — DPoP (RFC 9449), JWKS, Key Rotation, mTLS
-* 📡 **Networking** — TCP, NDJSON, Protocol Design
-* ☁️ **Infrastructure** — Docker, Kubernetes (k3s)
-
 ### Research
 
 * **[The Cost of Centralised Leadership in Distributed Consensus](https://github.com/Sephy314/Leader-consensus-study)** —
   *An Experimental Comparison of Leader-Based and Leaderless Consensus*
-* **[Achieving Byzantine Consensus with Majority Quorums and a Constant Number of Rounds in a Leaderless Architecture](https://github.com/Sephy314/Salix)**
+* **[Salix: Achieving Byzantine Consensus with Majority Quorums and a Constant Number of Rounds in a Leaderless Architecture](https://github.com/Sephy314/Salix)**
   *Achieving \(f+1\) Quorums through Synchrony and Digital Signatures*
   
 ### Projects
