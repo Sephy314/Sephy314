@@ -6,7 +6,7 @@
 
 **Distributed Systems Research • Student**
 
-[GitHub](https://github.com/Sephy314) | [LinkedIn](https://www.linkedin.com/in/davie-ryu/) | [Home Page](https://sephy314.github.io)
+[GitHub](https://github.com/Sephy314) | [X](https://x.com/Sephy314) | [LinkedIn](https://www.linkedin.com/in/davie-ryu/) | [Home Page](https://sephy314.github.io)
 
 </div>
 
